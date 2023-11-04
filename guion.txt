@@ -21,20 +21,52 @@ pasar los agricultores y ganaderos en el pais en el momento de vender sus produc
 
 Hemos establecido objetivos claros para "Bovino Verde". Queremos con una idea innovadora y sostenible 
 fortalezer a los cultivadores para que los precios sean mas justos y se pueda llegar al consumidor final sin tener tantos intermediarios y a la vez incrementar la produccion ganadera 
-fortaleciendo las buenas practicas de bienestar animal y la comercializacion mas justa y con menos losgistica para el ganado.
+fortaleciendo las buenas practicas de bienestar animal y la comercializacion mas justa y con menos logistica para el ganado.
 
 Es importante comprender el alcance del proyecto. "Bovino Verde" incluye 4 pilares fundamentales insumos agro, insumos ganado , venta de cultivos y subasta de ganado
 
-La arquitectura técnica de "Bovino Verde" es fundamental. pues no basamos en eccomerce existentes en el mercado actual pero nos destacamos en que nuestro proyecto  es huella carbono cero 
+La arquitectura técnica de "Bovino Verde" es fundamental. pues no basamos en ecommerce existentes en el mercado actual pero nos destacamos en que nuestro proyecto  es huella carbono cero 
 por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos permite lograr mejoras en la logistica de los cultivos, insumos y ganado 
 
+////////////////////////////////santiago complementa la descripcion de tus paginas
 
+    Hasta ahora, hemos logrado consolidar una pagina web robusta que tiene una pagina web principal donde el estilo de diseño plano nos permite crear imagenes y graficos que se pueden superponer, 
+    unas galerias de imagenes que describan algunos productos categorizados de los que se pueden encontrar en la tienda, un plan de suscripcion con beneficios 
 
+//////////////////////////////juan david complementa la descripcion de tus paginas
 
+    las paginas de producto donde podran encontrar el tiempo la forma etc
 
+///////////////////////////camilo completa tu descripcion. 
 
+    La página de registro de "Bovino Verde" desempeña un papel fundamental en el proceso de incorporación de nuevos usuarios a nuestra plataforma. Su objetivo principal es permitir
+     que los usuarios potenciales se registren y creen sus cuentas de usuario de manera eficiente y segura. Algunas de las funciones clave de la página de registro incluyen:
+      
+    1. Captura de Datos del Usuario: La página de registro solicita información esencial, como nombre, dirección de correo electrónico y contraseña. 
+      Esto permite a los usuarios crear sus perfiles y acceder a la plataforma.
 
-Slide 4: Objetivos d
+    2.Validación de Datos: Para garantizar la precisión y la integridad de la información del usuario, se implementan mecanismos de validación.
+       Se verifican la disponibilidad del correo electrónico y la fortaleza de la contraseña.
+
+    3.Opciones de Registro Simplificadas: Además de la información básica, "Bovino Verde" puede ofrecer opciones de registro simplificadas,
+        como el registro a través de cuentas de redes sociales (por ejemplo, Google o Facebook) para una experiencia más rápida.
+
+    4.Políticas de Privacidad y Términos de Servicio: Se proporciona acceso a las
+     políticas de privacidad y los términos de servicio para que los usuarios los revisen y acepten antes de completar el registro.
+
+     La página de inicio de sesión de "Bovino Verde" es la puerta de entrada a la plataforma para los usuarios registrados.
+      Sus funciones son igualmente esenciales para ofrecer una experiencia de usuario fluida y segura.
+
+    1.Acceso Seguro: Los usuarios registrados pueden iniciar sesión utilizando su dirección de correo electrónico y contraseña.
+     Este proceso se realiza de manera segura para proteger la información del usuario.
+    
+    2.Recuperación de Contraseña: Si un usuario olvida su contraseña, la página de inicio de sesión ofrece la opción de recuperación de contraseña.
+     Se puede enviar un enlace de restablecimiento de contraseña al correo electrónico registrado.
+
+    3.Opciones de Inicio de Sesión Alternativas: Además de las credenciales tradicionales,
+     los usuarios también pueden tener la opción de iniciar sesión con cuentas de redes sociales como Google, Facebook, o Instagram.
+
+Estamos emocionados por los resultados que hemos obtenido y por superar desafíos significativos, como darle la funcionalidad completa a la pagina con mas lenguajes de programacion.
 
 
 
