@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Public+Sans:wght@400;500;600;700&display=swap');
+
+.container_main{
+    display: flex;
+}
+
+.left{
+    border: 2px solid rgba(0, 0, 0, 0);
+    width: 550px;
+    height: 670px;
+    margin: 0px 0px 0px 200px;
+}
+
+.Img-product{
+    border: 2px solid rgb(0, 0, 0);
+    width: 550px;
+    height: 550px;
+    background-color: rgba(48, 44, 44, 0.596);
+    margin: 0px 0px 0px 0px;
+}
+
+.container-images{
+    width: auto;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.Buttoncito{
+    width: 30px;
+    height: 30px;
+    color: rgb(2, 2, 2);
+    background-color: rgb(239, 242, 246);
+    border: 1px solid rgb(239, 242, 246);
+    cursor: pointer;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
+.Buttoncito:hover{
+    transform: scale(1.10);
+}
+
+.More-img{
+    width: 60px;
+    height: 60px;
+    border: 1px solid rgb(239, 242, 246);
+    background-color: rgba(54, 54, 54, 0.411);
+    margin: 10px 3px 10px 10px;
+    cursor: pointer;
+}
+
+
+.More-img:hover{
+    transform: scale(1.10);
+}
+
+.View-img{
+    width: auto;
+    height: 150px;
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.Circle{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    border:2px solid black;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.Circle:hover{
+    transform: scale(1.10);
+}
+
+.Circle2{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgb(0, 0, 0);
+    margin-left: 10px;
+    border:2px solid black;
+    cursor: pointer;
+}
+
+.Circle2:hover{
+    transform: scale(1.10);
+}
+/* PARTE DERECHA */
+.Right{
+    border: 2px solid rgba(0, 0, 0, 0);
+    width: 650px;
+    height: auto;
+    margin: 0px 0px 0px 130px;
+    font-family: Public Sans;
+}
+
+.img-desc {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: end;
+}
+
+.img-desc1 {
+    max-width: 30px;
+    padding-left: 5px;
+}
+
+.Product{
+    font-size: 45px;
+}
+
+.like{
+    width: 30px;
+    cursor: pointer;
+    margin-left: 45px;
+}
+
+.share{
+    width: 30px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.Text-descrip{
+    font-size: 20px;
+    padding-bottom: 0px;
+}
+
+.Diferent{
+    padding-bottom: 15px;
+}
+
+.amount{
+    font-size: 15px;
+    margin: 0px 0px 0px 537px;
+    color: rgba(0, 0, 0, 0.781);
+}
+
+.Add-car{
+    border: 2px solid rgba(0, 0, 0, 0);
+    width: 655px;
+    height: auto;
+}
+
+.button-add{
+    width: 500px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    font-family: Public Sans;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.button-amount{
+    width: 70px;
+    height: 45px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(239, 242, 246);
+    font-family: Public Sans;
+    margin: 0px 0px 0px 25px;
+    cursor: pointer;
+}
+
+.Others{
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+}
+
+.Details{
+    width: 300px;
+    height: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: white;
+    font-family: Public Sans;
+    cursor: pointer;
+}
+
+.Send{
+    width: 300px;
+    height: 40px;
+    font-family: Public Sans;
+    background-color: black;
+    color: white;
+    border: solid black;
+    margin: 0px 0px 0px 4px;
+    mask-border: 1px solid black;
+    cursor: pointer;
+}
+
+.Details-desc{
+    width: 640px;
+    height: auto;
+    color: rgba(0, 0, 0, 0.63);
+    font-family: Public Sans;
+    font-size: 18px;
+    border: 2px solid rgba(0, 0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
