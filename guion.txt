@@ -123,6 +123,80 @@ y estamos dispuestos a responder a sus preguntas y escuchar sus comentarios. Por
 
     
 
+---------------------------------------------------------------------------------------------------------------------
+
+EN INGLES
+
+
+Good morning everybody
+
+Today I'm very excited to present our project ‘Bovino Verde’.
+In this presentation, I'll share details about the project and how we’ve been working on it.
+Our goal is to give an innovative solution which takes on important challenges.
+
+Well, I’ll begin introducing our team, each one has an important role in the project.
+
+In Bovino Verde we work together in a wonderful way and we are involved in achieving a significant impact with our project.
+
+In order to understand the project, is important to know the origin of this, the project was born in a brainstorm where we were looking for a problem to solve with the technological area, In the moment that we were talking we realized that we had experiences in the agro world and we knew what are the problems in this world.
+Our goal is to give a solution to the economic and logistics problem which has to happen for the farmers and ranchers in the country at the moment to sell their products or auction off part of their livestock.
+
+We have established clear goals for the project. 
+
+We want to strengthen the environment for the farmers with the objective that they get fairer prices at the time to sell their products, without needing intermediaries.
+
+At the same time we want to raise the livestock production, strengthen the good practices of animal welfare, the fairer commercialization and less logistics for the livestock.
+
+It is important to understand the scope of the project "Bovino Verde" which includes 4 fundamental pillars, agricultural supplies, livestock supplies, crop sales and livestock auction.
+
+The technical architecture of "Bovino Verde" is fundamental. So, we are based on the existing e-commerce in the current market, but we stand out that our project has a zero carbon footprint, for the combination of agriculture and livestock and we are putting in the technology which will allow us to improve the logistics of the crops, supplies and livestock.
+
+
+////////////////////////////////santiago complementa la descripcion de tus paginas. Guion Comercial
+
+
+    Until the moment, we have achieved get a robust web page that has a principal page where the stylish of plain design, is allow us create  images and graphics that can be overlap, here  you can find galleries that describe the categories of products that are in the store, 
+at finish of the page you will find a subscription plan with some benefits 
+
+
+//////////////////////////////juan david 
+
+    Here in this we can watch where the user joins to see the description of a product.
+
+IN the left part of the page the user can watch pictures of the product in different angles which can help to guide the user if it is the product that actually is looking for.
+
+On the other side the user can appreciate the information that the seller provides, which is normally the name of the product, the price, where is located and is it necessary some more information.
+
+The user can raise the amount of the product in the button, the user too can add the product to the car clicking on the button, the user can watch the details and the methods of sending.
+
+
+///////////////////////////camilo completa tu descripcion. Guion Comercial
+
+    The "Bovino Verde" registration page plays a critical role in the process of onboarding new users to our platform. Its main purpose is to allow potential users to register and create their user accounts efficiently and securely. Some of the functions are:
+      
+User Data Capture: The registration page asks for essential information, such as name, email address, and password.
+     This allows users to create their profiles and access the platform.
+
+Data Validation: To ensure the accuracy and integrity of user information, validation mechanisms are implemented.
+
+We can offer simplified registration options, such as registration through social media accounts, for a faster experiences
+
+Privacy Policies and Terms of Service: Access to the privacy policies and terms of service is provided for users to review and accept before completing registration.
+
+The login page of "Bovino Verde" is the gateway to the platform for registered users.
+Its features are equally essential to deliver a smooth and secure user experience.
+    
+Secure Access: Registered users can log in using their email address and password.
+This process is done securely to protect the user's information.
+    
+Password Recovery: If a user forgets their password, the login page offers the password recovery option.
+A password reset link can be sent to the registered email.
+
+We can offer simplified registration options, such as registration through social media accounts, for a faster experience.
+
+We are excited about the results we have achieved and to overcome significant challenges, such as teamwork or giving full functionality to the page with more programming languages.
+
+
 
 
 
