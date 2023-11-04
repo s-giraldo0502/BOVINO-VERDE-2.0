@@ -28,16 +28,17 @@ Es importante comprender el alcance del proyecto. "Bovino Verde" incluye 4 pilar
 La arquitectura técnica de "Bovino Verde" es fundamental. pues no basamos en ecommerce existentes en el mercado actual pero nos destacamos en que nuestro proyecto  es huella carbono cero 
 por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos permite lograr mejoras en la logistica de los cultivos, insumos y ganado 
 
-////////////////////////////////santiago complementa la descripcion de tus paginas
+////////////////////////////////santiago complementa la descripcion de tus paginas. Guion Comercial
+
 
     Hasta ahora, hemos logrado consolidar una pagina web robusta que tiene una pagina web principal donde el estilo de diseño plano nos permite crear imagenes y graficos que se pueden superponer, 
     unas galerias de imagenes que describan algunos productos categorizados de los que se pueden encontrar en la tienda, un plan de suscripcion con beneficios 
 
-//////////////////////////////juan david complementa la descripcion de tus paginas
+//////////////////////////////juan david complementa la descripcion de tus paginas. Guion Comercial
 
     las paginas de producto donde podran encontrar el tiempo la forma etc
 
-///////////////////////////camilo completa tu descripcion. 
+///////////////////////////camilo completa tu descripcion. Guion Comercial
 
     La página de registro de "Bovino Verde" desempeña un papel fundamental en el proceso de incorporación de nuevos usuarios a nuestra plataforma. Su objetivo principal es permitir
      que los usuarios potenciales se registren y creen sus cuentas de usuario de manera eficiente y segura. Algunas de las funciones clave de la página de registro incluyen:
@@ -66,7 +67,16 @@ por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos pe
     3.Opciones de Inicio de Sesión Alternativas: Además de las credenciales tradicionales,
      los usuarios también pueden tener la opción de iniciar sesión con cuentas de redes sociales como Google, Facebook, o Instagram.
 
-Estamos emocionados por los resultados que hemos obtenido y por superar desafíos significativos, como darle la funcionalidad completa a la pagina con mas lenguajes de programacion.
+Estamos emocionados por los resultados que hemos obtenido y por superar desafíos significativos, como el trabajo en equipo o darle la funcionalidad completa a la pagina
+con mas lenguajes de programacion. 
+
+Queremos que sepan que su colaboración es valiosa.
+Los invitamos a darnos algunos feedback y a brindar retroalimentación. con su ayuda sabemos que  podemos hacer que "Bovino Verde" sea aún mejor. 
+
+y antes de concluir, quiero agradecerles a todos por su tiempo y atención. Su apoyo es fundamental para el éxito de este proyecto educativo. ¡Gracias infinitas!
+y estamos dispuestos a responder a sus preguntas y escuchar sus comentarios. Por favor, siéntanse libres de hacer cualquier pregunta o comentario que tengan.
+
+
 
 
 
@@ -76,37 +86,49 @@ Estamos emocionados por los resultados que hemos obtenido y por superar desafío
 # santiago
     Guion tecnico
 
-    Guion Comercial
+    
 
 # juan David
     Guion tecnico
 
-    Guion Comercial
+    
 
 # Juan camilo
     Guion tecnico
 
     
     Presentaremos el código HTML y CSS de una página de inicio de sesión y una pagina de registro de usuario, destacando sus elementos clave y estilos.
-    primero se define la estructura html basica  y se establece la codificacion y el titulo de la pagina.
+    primero se definio la estructura html basica  y se establece la codificacion y el titulo de la pagina.
     se enlaza la hoja de estilo Css mediante la etiqueta <link>
 
     se comienza con la division de la pagina para darle la estructura que deseamos segun nuestro proyecto en figma 
     y se divide en 3 secciones importantes que se repiten a los largo de las paginas de bovino verde que son el Headers,el body o contenido de la pagina especifica y el footter
-    luego  en el body se divide segun el diseño  la estructura de los contenedores encabezado con el logo y el nombre del proyecto
-    y siguiente un formulario de inicio o de registro y una imagen de fondo  al costado izquierdo para darle un poco de estilo a las paginas
+    luego en el body se divide segun el diseño la estructura de los contenedores encabezado con el logo y el nombre del proyecto
+    y siguiente un formulario de inicio o de registro y una imagen de fondo al costado izquierdo para darle un poco de estilo a las paginas.
 
-    se definen los estilos generales dela pagina, como la fuente y el diseño de contenedores 
+    se definen los estilos generales de la pagina, como la fuente y el diseño de contenedores 
     y posteriormente se establecen los estilos para la imagen de fondo, como dimensiones y los bordes redondeados
     
     se detallan los estilos para los elementos del formulario, como campos de entrada,etiquetas y botones
 
     tambiem se detallan los estilos de los botones de registro,inicio de session y las opciones de inicio de seccion con redes sociales
-    se le implemente un poco de funcionalidad al html 
+
+    en resumen se definen la estructura y los estilos de las paginas y se trata de destacar la importacia de mantener una apariencia profesional y amigable para el usuario.
+
+    en este proyecto nos hemos desafiado nuestro aprendizaje y hemos aprendido habilidades avanzadas en la creacion y maquetacion de paginas web,
+    ademas de la capacidad para estilizar elementos html con css y poder crear intefazes de usuarios mas atractivas y coherentes.
+    otra habilidad adquirida fue entender la creacion de diseños web responsivos  que se adapten  a los diferentes tamaños de pantallas.
+
+    ¡Muchas Gracias¡
+
+    
 
 
 
 
-    Guion Comercial
 
+
+
+
+    
 
