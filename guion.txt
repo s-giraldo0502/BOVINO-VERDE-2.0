@@ -105,6 +105,17 @@ y estamos dispuestos a responder a sus preguntas y escuchar sus comentarios. Por
 # juan David
     Guion tecnico
 
+First of all I had to create a DIV tag which was the container for the main information in the page, with this div I had to create two more Div tags which one was the left side and the other the right side of the page, where i focused my work.
+
+on the left side of the page I had to create some containers where the pictures of the product would be. I made it using one DIV tag for each row, thanks to that I was able to in the CSS adapt each image just like the page was in the figma.
+
+in the right side of the page I used some titles and paragraphs for putting the description of the product, and too had to used some button for the part of add the car shop car and in the part to choose the amount to buy, under this there are two buttons where you can watch some more information about the product and the delivery.
+
+For making the age of the bidding was really easy ‘cause i was able to re- use the code of the description product page so I only had to change the amount button and add to cart button for one bid button and the amount to bid, too change the part of the some more information for put a part where the user can watch the latest bidders.
+
+Talking about the creation of the page through HTML and CSS was a tough challenge for me, ‘cause I've never before I had made something like this project, but thanks to the help of my partners I was able to do it in a great way.
+
+
     
 
 # Juan camilo
