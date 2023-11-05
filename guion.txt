@@ -36,7 +36,13 @@ por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos pe
 
 //////////////////////////////juan david complementa la descripcion de tus paginas. Guion Comercial
 
-    las paginas de producto donde podran encontrar el tiempo la forma etc
+    Aquí en este podemos observar dónde se une el usuario para ver la descripción de un producto.
+
+En la parte izquierda de la página el usuario puede ver imágenes del producto en diferentes ángulos que pueden ayudar a guiar al usuario si es el producto que realmente está buscando.
+
+Por otro lado el usuario puede apreciar la información que proporciona el vendedor, que normalmente es el nombre del producto, el precio, dónde se encuentra y si es necesario algún dato más.
+
+El usuario puede aumentar el importe del producto en el botón, el usuario también puede agregar el producto al coche haciendo clic en el botón, el usuario puede ver los detalles y los métodos de envío.
 
 ///////////////////////////camilo completa tu descripcion. Guion Comercial
 
