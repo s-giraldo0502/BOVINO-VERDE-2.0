@@ -215,6 +215,56 @@ We can offer simplified registration options, such as registration through socia
 We are excited about the results we have achieved and to overcome significant challenges, such as teamwork or giving full functionality to the page with more programming languages.
 
 
+#GUIN TECNICO
+
+#SANTIAGO
+
+
+
+
+
+
+
+
+#JUAN DAVID
+
+First of all I had to create a DIV tag which was the container for the main information in the page, with this div I had to create two more Div tags which one was the left side and the other the right side of the page, where i focused my work.
+
+on the left side of the page I had to create some containers where the pictures of the product would be. I made it using one DIV tag for each row, thanks to that I was able to in the CSS adapt each image just like the page was in the figma.
+
+in the right side of the page I used some titles and paragraphs for putting the description of the product, and too had to used some button for the part of add the car shop car and in the part to choose the amount to buy, under this there are two buttons where you can watch some more information about the product and the delivery.
+
+For making the age of the bidding was really easy ‘cause i was able to re- use the code of the description product page so I only had to change the amount button and add to cart button for one bid button and the amount to bid, too change the part of the some more information for put a part where the user can watch the latest bidders.
+
+Talking about the creation of the page through HTML and CSS was a tough challenge for me, ‘cause I've never before I had made something like this project, but thanks to the help of my partners I was able to do it in a great way.
+
+#JUAN CAMILO
+
+i’ll present the HTML and CSS code of a login sesion page and sign up sesion page, highlighting its key elements and styles.
+
+First of all I defined the basic HTML structure and established the codification and title of the page.
+
+The CSS style sheet is linked using the <link> tag
+
+We began white the page division to give a structure that we wanted according to our project in figma and was divided in 3 important sections that are repeated throughout the pages of green bovine that are the Header, the body or specific page contain and the footer. 
+
+Then in the body is divided according to the structure design of the containers, header with the logo, the the page name,  the next it's a login form or sign up form and at the left a image to give some style to the page.
+
+It´s defined the general styles of the page, such as the font, the containers designs, and then it establishes the design for the background image, such as dimensions and rounded edges.
+
+Styles for form elements such as input fields, labels, and buttons are detailed
+
+ The styles of the registration and login buttons and the section start options with social networks are also detailed.
+
+
+On few words the structure and the styles are defined for trying to highlighting the importance of keep a professional and friendly appearance for the user 
+
+In this project we have challenged our learning and we have learned advanced skills in the creation and layout of web pages, In addition to the ability to style html elements with CSS and be able to create more attractive and coherent user interfaces.
+
+Thank you!
+
+
+
 
 
 
