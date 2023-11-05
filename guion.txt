@@ -48,6 +48,8 @@ por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos pe
 
     El usuario puede aumentar el importe del producto en el botón, el usuario también puede agregar el producto al coche haciendo clic en el botón, el usuario puede ver los detalles y los métodos de envío.
 
+En la página de la subasta el usuario también puede ver fotos del ganado, leer la descripción, y bajo la descripción puede pujar por el ganado ingresando la cantidad que quiera ofrecer, también se puede observar quienes han sido los últimos pujadores.
+
 ///////////////////////////camilo completa tu descripcion. Guion Comercial
 
     La página de registro de "Bovino Verde" desempeña un papel fundamental en el proceso de incorporación de nuevos usuarios a nuestra plataforma. Su objetivo principal es permitir
@@ -178,6 +180,8 @@ IN the left part of the page the user can watch pictures of the product in diffe
 On the other side the user can appreciate the information that the seller provides, which is normally the name of the product, the price, where is located and is it necessary some more information.
 
 The user can raise the amount of the product in the button, the user too can add the product to the car clicking on the button, the user can watch the details and the methods of sending.
+
+In the bidding page the user too can watch the pictures of the livestock, the user can read the description of the livestock, and under the descripcion the user can bid on the livestock putting the amount that it wants to offer, in the same side the user can watch the latest biders.
 
 
 ///////////////////////////camilo completa tu descripcion. Guion Comercial
