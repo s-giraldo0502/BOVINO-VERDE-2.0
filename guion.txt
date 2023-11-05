@@ -7,7 +7,7 @@ Guion General
 ¡Buenos días a todos!
 
 Hoy estoy emocionado de presentarles nuestro proyecto "Bovino Verde". 
-En esta presentación, compartiré detalles sobre el proyecto y cómo hemos estado trabajando en él. 
+En esta presentación, compartirémos detalles sobre el proyecto y cómo hemos estado trabajando en él. 
 Nuestro objetivo es brindar una solución innovadora que aborde desafíos importantes.
 
 Permítanme comenzar presentándoles a nuestro increíble equipo. Todos desempeñan un papel crucial en el éxito de "Bovino Verde". 
@@ -30,6 +30,7 @@ por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos pe
 
 ////////////////////////////////santiago complementa la descripcion de tus paginas. Guion Comercial
 
+    la creacion de la conceptualizacion de bovino verde fue realizada en un maquetador llamado figma donde cada uno aporto sus ideas y logramos crear un concepto de pagina minimalista pero funcional
 
     Hasta ahora, hemos logrado consolidar una pagina web robusta que tiene una pagina web principal donde el estilo de diseño plano nos permite crear imagenes y graficos que se pueden superponer, 
     unas galerias de imagenes que describan algunos productos categorizados de los que se pueden encontrar en la tienda, un plan de suscripcion con beneficios 
@@ -94,9 +95,9 @@ y estamos dispuestos a responder a sus preguntas y escuchar sus comentarios. Por
     
 
 # Juan camilo
+   
     Guion tecnico
-
-    
+ 
     Presentaremos el código HTML y CSS de una página de inicio de sesión y una pagina de registro de usuario, destacando sus elementos clave y estilos.
     primero se definio la estructura html basica  y se establece la codificacion y el titulo de la pagina.
     se enlaza la hoja de estilo Css mediante la etiqueta <link>
@@ -117,7 +118,7 @@ y estamos dispuestos a responder a sus preguntas y escuchar sus comentarios. Por
 
     en este proyecto nos hemos desafiado nuestro aprendizaje y hemos aprendido habilidades avanzadas en la creacion y maquetacion de paginas web,
     ademas de la capacidad para estilizar elementos html con css y poder crear intefazes de usuarios mas atractivas y coherentes.
-    otra habilidad adquirida fue entender la creacion de diseños web responsivos  que se adapten  a los diferentes tamaños de pantallas.
+    otra habilidad adquirida fue entender la creacion de diseños web responsivos que se adapten  a los diferentes tamaños de pantallas.
 
     ¡Muchas Gracias¡
 
