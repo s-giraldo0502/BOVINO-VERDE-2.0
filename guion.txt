@@ -33,17 +33,20 @@ por la combinacion del agro y la ganaderia y aplicamos tecnologia  lo que nos pe
     la creacion de la conceptualizacion de bovino verde fue realizada en un maquetador llamado figma donde cada uno aporto sus ideas y logramos crear un concepto de pagina minimalista pero funcional
 
     Hasta ahora, hemos logrado consolidar una pagina web robusta que tiene una pagina web principal donde el estilo de diseño plano nos permite crear imagenes y graficos que se pueden superponer, 
-    unas galerias de imagenes que describan algunos productos categorizados de los que se pueden encontrar en la tienda, un plan de suscripcion con beneficios 
+    unas galerias de imagenes que describan algunos productos categorizados de los que se pueden encontrar en la tienda, un plan de suscripcion con beneficios y un footter para las paginas 
+    donde pueden encontar nuestras redes sociales,informacion sobre nosotros y el logo principal de nuestro proyecto
+    y para finalizar un copirigt para proteger nuestro nombre comrcial y la idea del proyecto.
+
 
 //////////////////////////////juan david complementa la descripcion de tus paginas. Guion Comercial
 
     Aquí en este podemos observar dónde se une el usuario para ver la descripción de un producto.
 
-En la parte izquierda de la página el usuario puede ver imágenes del producto en diferentes ángulos que pueden ayudar a guiar al usuario si es el producto que realmente está buscando.
+    En la parte izquierda de la página el usuario puede ver imágenes del producto en diferentes ángulos que pueden ayudar a guiar al usuario si es el producto que realmente está buscando.
 
-Por otro lado el usuario puede apreciar la información que proporciona el vendedor, que normalmente es el nombre del producto, el precio, dónde se encuentra y si es necesario algún dato más.
+    Por otro lado el usuario puede apreciar la información que proporciona el vendedor, que normalmente es el nombre del producto, el precio, dónde se encuentra y si es necesario algún dato más.
 
-El usuario puede aumentar el importe del producto en el botón, el usuario también puede agregar el producto al coche haciendo clic en el botón, el usuario puede ver los detalles y los métodos de envío.
+    El usuario puede aumentar el importe del producto en el botón, el usuario también puede agregar el producto al coche haciendo clic en el botón, el usuario puede ver los detalles y los métodos de envío.
 
 ///////////////////////////camilo completa tu descripcion. Guion Comercial
 
