@@ -23,6 +23,8 @@ Hemos establecido objetivos claros para "Bovino Verde". Queremos con una idea in
 fortalezer a los cultivadores para que los precios sean mas justos y se pueda llegar al consumidor final sin tener tantos intermediarios y a la vez incrementar la produccion ganadera 
 fortaleciendo las buenas practicas de bienestar animal y la comercializacion mas justa y con menos logistica para el ganado.
 
+Buscamos tener alto impacto en las familias campesinas de colombia brindadole una solucion al problema del desabastecimiento en insumos atavez de la tecnologia, dandoles un sistema de abastecimiento eficaz y comodo.
+
 Es importante comprender el alcance del proyecto. "Bovino Verde" incluye 4 pilares fundamentales insumos agro, insumos ganado , venta de cultivos y subasta de ganado
 
 La arquitectura técnica de "Bovino Verde" es fundamental. pues no basamos en ecommerce existentes en el mercado actual pero nos destacamos en que nuestro proyecto  es huella carbono cero 
@@ -158,6 +160,8 @@ We have established clear goals for the project.
 We want to strengthen the environment for the farmers with the objective that they get fairer prices at the time to sell their products, without needing intermediaries.
 
 At the same time we want to raise the livestock production, strengthen the good practices of animal welfare, the fairer commercialization and less logistics for the livestock.
+
+We are looking  for having a high impact on Colombian peasant families by providing a solution to the problem of shortages in inputs through technology,  giving them an effective and comfortable supply system.
 
 It is important to understand the scope of the project "Bovino Verde" which includes 4 fundamental pillars, agricultural supplies, livestock supplies, crop sales and livestock auction.
 
